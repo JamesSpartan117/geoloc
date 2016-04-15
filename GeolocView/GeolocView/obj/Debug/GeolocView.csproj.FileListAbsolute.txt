@@ -1,0 +1,14 @@
+D:\Projets\GeolocView\GeolocView\bin\Debug\GeolocView.exe.config
+D:\Projets\GeolocView\GeolocView\obj\Debug\GeolocView.csprojResolveAssemblyReference.cache
+D:\Projets\GeolocView\GeolocView\obj\Debug\Views\MainWindow.g.cs
+D:\Projets\GeolocView\GeolocView\obj\Debug\App.g.cs
+D:\Projets\GeolocView\GeolocView\obj\Debug\GeolocView_MarkupCompile.cache
+D:\Projets\GeolocView\GeolocView\obj\Debug\GeolocView_MarkupCompile.lref
+D:\Projets\GeolocView\GeolocView\bin\Debug\GeolocView.exe
+D:\Projets\GeolocView\GeolocView\bin\Debug\GeolocView.pdb
+D:\Projets\GeolocView\GeolocView\obj\Debug\Views\MainWindow.baml
+D:\Projets\GeolocView\GeolocView\obj\Debug\GeolocView.g.resources
+D:\Projets\GeolocView\GeolocView\obj\Debug\GeolocView.Properties.Resources.resources
+D:\Projets\GeolocView\GeolocView\obj\Debug\GeolocView.csproj.GenerateResource.Cache
+D:\Projets\GeolocView\GeolocView\obj\Debug\GeolocView.exe
+D:\Projets\GeolocView\GeolocView\obj\Debug\GeolocView.pdb
